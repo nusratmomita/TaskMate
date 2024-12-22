@@ -33,6 +33,6 @@ According to the user's preference, they can add a new project/task, mark them a
 <h4>Reminder Option</h4>
 <h4>UI Improve</h4>
 
-<h3>Team Information</h3>
+<h1>Team Information</h1>
 <h4>Member:1 Raj Kiron Kishan(213-134-016)</h4>
 <h4>Member:2 Nushrath Momita Hussain(221-134-001)</h4>
