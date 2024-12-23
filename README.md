@@ -58,8 +58,8 @@ According to the user's preference, they can add a new project/task, mark them a
 <h4>UI Improve</h4>
 
 <h1>Screenshots</h1>
-![image](https:/![0535c095-5994-4f08-8248-cdf353862bb3](https://github.com/user-attachments/assets/a28aa14c-58e0-4e3c-9d8b-8b6cb2703790)
-/github.com/user-attachments/assets/700f4211-0aa2-403f-8c13-f106e10f959a)
+<a href='![6dd2e66c-faeb-420c-beb6-09b43e87a7b6](https://github.com/user-attachments/assets/0917f63a-ac1a-4e1c-8644-39523bce677f)
+'></a>
 
 </br> 
 
