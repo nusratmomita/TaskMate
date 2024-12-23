@@ -10,8 +10,10 @@ According to the user's preference, they can add a new project/task, mark them a
 <h1>Core Features 🎇</h1>
 <ul>
     <li>User Authentication</li>
-    <li>CRUD operations for both Projects and Tasks</li>
+    <li>CRUD operations for Users, Projects ,Tasks</li>
     <li>List of Users of this applications</li>
+    <li>Searching and Sorting</li>
+    <li>Profile Settings</li>
 </ul>
 
 </br> 
@@ -30,6 +32,8 @@ According to the user's preference, they can add a new project/task, mark them a
 <h3>HTML CSS Javascript TailwindCSS React</h3>
 <h2>For Backend : </h2>
 <h3>PHP Laravel</h3>
+<h2>For Database : </h2>
+<h3>SQLLite</h3>
 
 </br>
 
