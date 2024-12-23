@@ -29,11 +29,11 @@ According to the user's preference, they can add a new project/task, mark them a
 
 <h1>Tech-stack 👾</h1>
 <h2>For Frontend : </h2>
-<h3>HTML CSS Javascript TailwindCSS React</h3>
+<h4>HTML CSS Javascript TailwindCSS React</h4>
 <h2>For Backend : </h2>
-<h3>PHP Laravel</h3>
+<h43>PHP Laravel</h4>
 <h2>For Database : </h2>
-<h3>SQLLite</h3>
+<h4>SQLLite</h4>
 
 </br>
 
@@ -53,8 +53,13 @@ According to the user's preference, they can add a new project/task, mark them a
 
 <h1>Future Improvement ✨</h1>
 <h4>Integrating AI to sort the tasks</h4>
+
 <h4>Reminder Option</h4>
 <h4>UI Improve</h4>
+
+<h1>Screenshots</h1>
+![image](https:/![0535c095-5994-4f08-8248-cdf353862bb3](https://github.com/user-attachments/assets/a28aa14c-58e0-4e3c-9d8b-8b6cb2703790)
+/github.com/user-attachments/assets/700f4211-0aa2-403f-8c13-f106e10f959a)
 
 </br> 
 
