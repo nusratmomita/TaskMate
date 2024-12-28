@@ -37,6 +37,13 @@ According to the user's preference, they can add a new project/task, mark them a
 
 </br>
 
+<h1>Documents</h1>
+<h3>All the documentations are included in this link : (https://drive.google.com/drive/u/0/folders/1hvsHaOAW2akwE4CaeKcnOJMl7e4rJJ7N)</h3>
+<h1>Future Improvement ✨</h1>
+<h4>Integrating AI to sort the tasks</h4>
+
+</br>
+
 <h1>How to set up the project 🔗</h1>
 <h3>Open a folder named "TaskMate" or anything you want and open the folder on VS code</h3>
 <h3>Clone the repo using the command: <code>git clone https://github.com/nusratmomita/TaskMate.git</code></h3>
@@ -50,11 +57,6 @@ According to the user's preference, they can add a new project/task, mark them a
 <h3>If you already have an account log in with your email and password. And you are ready to use the site!!</h3>
 
 </br>
-
-<h1>Documents</h1>
-<h3>All the doucmentations are includes in this link : (https://drive.google.com/drive/u/0/folders/1hvsHaOAW2akwE4CaeKcnOJMl7e4rJJ7N)</h3>
-<h1>Future Improvement ✨</h1>
-<h4>Integrating AI to sort the tasks</h4>
 
 <h4>Reminder Option</h4>
 <h4>UI Improve</h4>
