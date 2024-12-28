@@ -10,7 +10,7 @@ According to the user's preference, they can add a new project/task, mark them a
 <h1>Core Features 🎇</h1>
 <ul>
     <li>User Authentication</li>
-    <li>CRUD operations for Users, Projects ,Tasks</li>
+    <li>CRUD operations for Users, Projects , Tasks</li>
     <li>List of Users of this applications</li>
     <li>Searching and Sorting</li>
     <li>Profile Settings</li>
@@ -51,6 +51,8 @@ According to the user's preference, they can add a new project/task, mark them a
 
 </br>
 
+<h1>Documents</h1>
+<h3>Database Scheme : https://classroom.google.com/u/0/c/Njk3MTM4MTAxMDYx/a/NzQwNTQyNzM5MDc4/details</h3>
 <h1>Future Improvement ✨</h1>
 <h4>Integrating AI to sort the tasks</h4>
 
