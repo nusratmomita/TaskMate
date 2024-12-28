@@ -53,8 +53,8 @@ According to the user's preference, they can add a new project/task, mark them a
 <h4>Open a folder named "TaskMate" or anything you want and open the folder on VS code</h4>
 <h4>Clone the repo using the command: <code>git clone https://github.com/nusratmomita/TaskMate.git</code></h4>
 <h4>Open two terminals(Better to give them different names to avoid confusions)</h4>
-<h4>Type:<code>php artisan serve</code> in one terminal</h4>
-<h4>Type:<code>npm run dev</code> in another terminal</h4>
+<h4>Type: <code>php artisan serve</code> in one terminal</h4>
+<h4>Type: <code>npm run dev</code> in another terminal</h4>
 <h4>This will give us a port number. Copy that port number, paste it into an internet browser and you are ready to use the website!!</h4>
 <h4>In my case the port number: http://127.0.0.1:8000/ </h4>
 <h4>First thing one can see is the welcome page. Scroll down below and there are two buttons.Login and Registration</h4>
