@@ -10,7 +10,7 @@ According to the user's preference, they can add a new project/task, mark them a
 <h1>Core Features 🎇</h1>
 <ul>
     <li>User Authentication</li>
-    <li>CRUD operations for Users, Projects , Tasks</li>
+    <li>CRUD operations for Users, Projects, Tasks</li>
     <li>List of Users of this applications</li>
     <li>Searching and Sorting</li>
     <li>Profile Settings</li>
@@ -39,8 +39,13 @@ According to the user's preference, they can add a new project/task, mark them a
 
 <h1>Documents</h1>
 <h3>All the documentations are included in this link : (https://drive.google.com/drive/u/0/folders/1hvsHaOAW2akwE4CaeKcnOJMl7e4rJJ7N)</h3>
-<h1>Future Improvement ✨</h1>
-<h4>Integrating AI to sort the tasks</h4>
+
+</br>
+
+<h1>Future Improvments ✨</h1>
+<h4>AI integration for sorting the task</h4>
+<h4>Reminder Option</h4>
+<h4>UI Improve</h4>
 
 </br>
 
@@ -58,16 +63,10 @@ According to the user's preference, they can add a new project/task, mark them a
 
 </br>
 
-<h4>Reminder Option</h4>
-<h4>UI Improve</h4>
-
 <h1>Screenshots</h1>
 ![6dd2e66c-faeb-420c-beb6-09b43e87a7b6](https://github.com/user-attachments/assets/7243ebf5-9b2c-4af6-a718-cf0c37554e70)
 ![0535c095-5994-4f08-8248-cdf353862bb3](https://github.com/user-attachments/assets/fea7d891-dad2-4ac6-866f-1eb38fbbd2fa)
 ![00509002-b3e4-44b0-88e4-593fa7bcbe6a](https://github.com/user-attachments/assets/0aec7660-4677-4b49-9ac2-a3a0344980a2)
-
-
-
 
 </br> 
 
