@@ -38,7 +38,7 @@ According to the user's preference, they can add a new project/task, mark them a
 </br>
 
 <h1>Documents</h1>
-<h3>All the documentations are included in this link : (https://drive.google.com/drive/u/0/folders/1hvsHaOAW2akwE4CaeKcnOJMl7e4rJJ7N)</h3>
+<h4>All the documentations are included in this link : (https://drive.google.com/drive/u/0/folders/1hvsHaOAW2akwE4CaeKcnOJMl7e4rJJ7N)</h4>
 
 </br>
 
@@ -50,16 +50,16 @@ According to the user's preference, they can add a new project/task, mark them a
 </br>
 
 <h1>How to set up the project 🔗</h1>
-<h3>Open a folder named "TaskMate" or anything you want and open the folder on VS code</h3>
-<h3>Clone the repo using the command: <code>git clone https://github.com/nusratmomita/TaskMate.git</code></h3>
-<h3>Open two terminals(Better to give them different names to avoid confusions)</h3>
-<h3>Type:<code>php artisan serve</code> in one terminal</h3>
-<h3>Type:<code>npm run dev</code> in another terminal</h3>
-<h3>This will give us a port number. Copy that port number, paste it into an internet browser and you are ready to use the website!!</h3>
+<h4>Open a folder named "TaskMate" or anything you want and open the folder on VS code</h4>
+<h4>Clone the repo using the command: <code>git clone https://github.com/nusratmomita/TaskMate.git</code></h4>
+<h4>Open two terminals(Better to give them different names to avoid confusions)</h4>
+<h4>Type:<code>php artisan serve</code> in one terminal</h4>
+<h4>Type:<code>npm run dev</code> in another terminal</h4>
+<h4>This will give us a port number. Copy that port number, paste it into an internet browser and you are ready to use the website!!</h4>
 <h4>In my case the port number: http://127.0.0.1:8000/ </h4>
-<h3>First thing one can see is the welcome page. Scroll down below and there are two buttons.Login and Registration</h3>
-<h3>If you are new to this website, Register with your name, email, and password and confirm the password.</h3>
-<h3>If you already have an account log in with your email and password. And you are ready to use the site!!</h3>
+<h4>First thing one can see is the welcome page. Scroll down below and there are two buttons.Login and Registration</h4>
+<h4>If you are new to this website, Register with your name, email, and password and confirm the password.</h4>
+<h4>If you already have an account log in with your email and password. And you are ready to use the site!!</h4>
 
 </br>
 
