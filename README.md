@@ -52,7 +52,7 @@ According to the user's preference, they can add a new project/task, mark them a
 </br>
 
 <h1>Documents</h1>
-<h3>Database Scheme : https://classroom.google.com/u/0/c/Njk3MTM4MTAxMDYx/a/NzQwNTQyNzM5MDc4/details</h3>
+<h3>Database Scheme : https://drive.google.com/drive/u/0/home</h3>
 <h1>Future Improvement ✨</h1>
 <h4>Integrating AI to sort the tasks</h4>
 
