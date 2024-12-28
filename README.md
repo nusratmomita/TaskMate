@@ -64,6 +64,7 @@ According to the user's preference, they can add a new project/task, mark them a
 </br>
 
 <h1>Screenshots</h1>
+
 ![6dd2e66c-faeb-420c-beb6-09b43e87a7b6](https://github.com/user-attachments/assets/7243ebf5-9b2c-4af6-a718-cf0c37554e70)
 
 ![0535c095-5994-4f08-8248-cdf353862bb3](https://github.com/user-attachments/assets/fea7d891-dad2-4ac6-866f-1eb38fbbd2fa)
