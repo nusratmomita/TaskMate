@@ -33,7 +33,7 @@ According to the user's preference, they can add a new project/task, mark them a
 <h2>For Backend : </h2>
 <h43>PHP Laravel</h4>
 <h2>For Database : </h2>
-<h4>SQLLite</h4>
+<h4>SQLite</h4>
 
 </br>
 
