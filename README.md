@@ -1,5 +1,5 @@
 <h1>TaskMate 📝</h1>
-<h3> One-stop solution to arrange projects and related tasks!!</h3>
+<h3> One-stop solution to arrange projects and related tasks</h3>
 <p>TaskMate is a full-stack web application where a user can arrange his/her tasks effectively. This website provides sorting according to THREE ways: Pending,In-Progress, and Completed.
 According to the user's preference, they can add a new project/task, mark them as Pending,In-Progress, or Completed, assign a user, give a deadline, etc</p>
 <p>In the task section, users can add tasks for the previously created project. Here the deadline, status, etc are included.</p>
